@@ -1,0 +1,112 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test4",
+            "request": "launch",
+            "mainClass": "test.test4",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_2",
+            "request": "launch",
+            "mainClass": "Work_Lesson_2.task_2",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch test3",
+            "request": "launch",
+            "mainClass": "test.test3",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "Work_Lesson_2.task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemple_6",
+            "request": "launch",
+            "mainClass": "Leson_2.exemple_6",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemple_5",
+            "request": "launch",
+            "mainClass": "Leson_2.exemple_5",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch example_4",
+            "request": "launch",
+            "mainClass": "Leson_2.example_4",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex005_Logger",
+            "request": "launch",
+            "mainClass": "Leson_2.Ex005_Logger",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_3",
+            "request": "launch",
+            "mainClass": "Work_Leson_1.task_3",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_3",
+            "request": "launch",
+            "mainClass": "Leson_1.task_3",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "Leson_1.task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_2",
+            "request": "launch",
+            "mainClass": "Leson_1.task_2",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test.test",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch test2",
+            "request": "launch",
+            "mainClass": "test.test2",
+            "projectName": "Java_ae5bc306"
+        }
+    ]
+}
