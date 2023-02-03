@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch test7",
+            "request": "launch",
+            "mainClass": "test.test7",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_2",
+            "request": "launch",
+            "mainClass": "Work_Lesson_4.task_2",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "Work_Lesson_4.task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_3",
+            "request": "launch",
+            "mainClass": "Lesson_4.task_3",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_2",
+            "request": "launch",
+            "mainClass": "Lesson_4.task_2",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "Lesson_5.task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "Lesson_4.task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
             "name": "Launch task_2",
             "request": "launch",
             "mainClass": "Work_Lesson_3_.task_2",
