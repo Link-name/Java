@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch test_12",
+            "request": "launch",
+            "mainClass": "test.test_12",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch test_11",
+            "request": "launch",
+            "mainClass": "test.test_11",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_2",
+            "request": "launch",
+            "mainClass": "Work_Lesson5.task_2",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task",
+            "request": "launch",
+            "mainClass": "Work_Lesson5.task",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task",
+            "request": "launch",
+            "mainClass": "Work_5.task",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_9",
+            "request": "launch",
+            "mainClass": "test.task_9",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "Work_Lesson_5.task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch test8",
+            "request": "launch",
+            "mainClass": "test.test8",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_6",
+            "request": "launch",
+            "mainClass": "Lesson_5.task_6",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
             "name": "Launch test7",
             "request": "launch",
             "mainClass": "test.test7",
