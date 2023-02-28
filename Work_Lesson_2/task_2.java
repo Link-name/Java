@@ -22,12 +22,14 @@ public class task_2 {
             StringBuilder sb = new StringBuilder();
             try (BufferedReader br = new BufferedReader(new FileReader("Work_Lesson_2/fail.json"))) {
                 String data;
+                System.out.println(br);
                 while ((data = br.readLine()) != null) {
                     sb.append(data);
                 }
             } catch (IOException e) {
                 e.printStackTrace();
             }
+            
             // создание словаря
             Map<String, String> map = new HashMap<>();
     
@@ -38,7 +40,7 @@ public class task_2 {
                     replace("\"", "").
                     replaceAll("\\s", "").
                     split("},");
-    
+                System.out.println(keys);
             for (String data : keys) {
                 String[] person = data.split(",");
                 for (String keyValues : person) {
@@ -48,7 +50,7 @@ public class task_2 {
                     map.put(key, value);
                 }
                 System.out.printf("Студент %s получил %s по предмету %s.\n", map.get("фамилия"),
-                        map.get("оценка"), map.get("предмет"));
+                        map.get("Модель"), map.get("предмет"));
             }
         }
     }

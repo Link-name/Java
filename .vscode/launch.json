@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Project",
+            "request": "launch",
+            "mainClass": "Final_java_project.Project",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch test_111",
+            "request": "launch",
+            "mainClass": "Final_project01.test_111",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch test_111",
+            "request": "launch",
+            "mainClass": "test.test_111",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch JsonParser",
+            "request": "launch",
+            "mainClass": "Final_project01.JsonParser",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch Project_notebook",
+            "request": "launch",
+            "mainClass": "Final_project01.Project_notebook",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch wq",
+            "request": "launch",
+            "mainClass": "Leson_2.wq",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch on",
+            "request": "launch",
+            "mainClass": "Leson_2.on",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex003_tryDemo",
+            "request": "launch",
+            "mainClass": "Leson_2.Ex003_tryDemo",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch on",
+            "request": "launch",
+            "mainClass": "on",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch on",
+            "request": "launch",
+            "mainClass": "Final_project01.on",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch noteBook_Project_1",
+            "request": "launch",
+            "mainClass": "Final_Project.noteBook_Project_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemple_3",
+            "request": "launch",
+            "mainClass": "Leson_2.exemple_3",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch notebook_Project",
+            "request": "launch",
+            "mainClass": "Final_Project.notebook_Project",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "new_test.task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_1",
+            "request": "launch",
+            "mainClass": "task_1",
+            "projectName": "Java_ae5bc306"
+        },
+        {
+            "type": "java",
             "name": "Launch test_12",
             "request": "launch",
             "mainClass": "test.test_12",
